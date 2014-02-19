@@ -15,13 +15,13 @@ to the instances of those objects (Models).
    :target: https://coveralls.io/r/paylogic/django-urlconverter
 
 
-
 Installation
 ------------
 
 .. sourcecode::
 
     pip install django-urlconverter
+
 
 Usage
 -----
@@ -81,11 +81,13 @@ views.py:
         """
         return foo2.title
 
+
 Contact
 -------
 
 If you have questions, bug reports, suggestions, etc. please create an issue on
 the `GitHub project page <http://github.com/paylogic/django-urlconverter>`_.
+
 
 License
 -------
