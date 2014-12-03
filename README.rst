@@ -18,7 +18,7 @@ to the instances of those objects (Models).
 Installation
 ------------
 
-.. sourcecode::
+.. sourcecode:: sh
 
     pip install django-urlconverter
 
