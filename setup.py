@@ -29,7 +29,7 @@ for text_file in ['README.rst', 'CHANGES.rst']:
 
 setup(
     name='django-urlconverter',
-    version='0.2',
+    version='1.0.0',
     description='Django URL converters',
     long_description='\n'.join(long_description),
     author='Paylogic International',
