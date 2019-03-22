@@ -1,5 +1,10 @@
 django-urlconverter: Django automatic view parameters conversion
 ================================================================
+Project archived
+--------------
+
+The project is not supported anymore. Consider using django's built-in url converters: https://docs.djangoproject.com/en/2.2/_modules/django/urls/converters/
+
 
 The ``django-urlconverter`` package provides an easy way to convert view arguments
 from simple types to complex ones, like models, or just do some processing using robust syntax.
